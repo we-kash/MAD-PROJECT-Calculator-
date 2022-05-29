@@ -1,2 +1,2 @@
 # MAD-PROJECT-Calculator-
-Submission for our Mobile Application Development  project 
+Submission for our Mobile Application Development  project .
